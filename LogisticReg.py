@@ -16,7 +16,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 
 #%matplotlib inline
-ad_data = pd.read_csv('/Users/rahul/Desktop/Project/Logistic/advertising.csv')
+ad_data = pd.read_csv('/Users/rahul/Desktop/Project/Logistic/data.csv')
 #Check the head of ad_data
 ad_data.head(3)
 
